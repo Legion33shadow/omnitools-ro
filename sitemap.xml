@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/</loc><lastmod>2026-04-27</lastmod><priority>1.0</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/calculator-impozit-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/calculator-credit-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/calculator-ipoteca-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/calculator-economii-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/calculator-pensie-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/calculator-bmi-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/convertor-valuta-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/youtube-download-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/pdf-comprima-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/cel-mai-bun-card-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/energie-ieftina-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/asigurare-masina-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/crypto-impozit-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/credit-firme-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://Legion33shadow.github.io/omnitools-ro/panouri-solare-ro/</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/</loc><lastmod>2026-04-27</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/impozit-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/youtube-mp3-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/youtube-mp4-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/pdf-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/credit-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/ipoteca-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/qr-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/bmi-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/valuta-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/parola-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/imagini-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/economii-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/crypto-impozit-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/energie-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://Legion33shadow.github.io/omnitools-ro/asigurare-ro.html</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
 </urlset>
